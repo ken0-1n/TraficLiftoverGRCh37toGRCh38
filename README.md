@@ -1,4 +1,4 @@
-# Trafic_Liftover_GRCh37toGRCh38
+# TraficLiftoverGRCh37toGRCh38
 Lift over the Trafic result file from GRch37 to GRCh38.
 
 ** preparations **
